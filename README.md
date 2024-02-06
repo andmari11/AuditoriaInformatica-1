@@ -1,6 +1,6 @@
 ﻿Auditoría Informática I								PRÁCTICA GRUPO 8
 
-`      `![](Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.001.png)
+`      `![](Imagenes/Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.001.png)
 
 **AUDITORÍA INFORMÁTICA I**
 
@@ -135,7 +135,7 @@ Estudiando a distintas empresas similares, se han identificado diversos servicio
 - **[I\_Financiera] Información Financiera:** Contiene datos financieros críticos, como informes contables, balances y registros de transacciones. La integridad de la información financiera es vital para cumplir con las regulaciones financieras.
 - **[I\_Empleados] Información Empleados:** Incluye datos relacionados con los empleados, como información personal o detalles de nómina. La protección de la privacidad de los empleados y el cumplimiento de las leyes laborales son de vital importancia.
 ## <a name="_fg5cjz2g6szr"></a>2.6 División de activos
-![](Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.002.png)
+![](Imagenes/Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.002.png)
 
 Como se puede comprobar, los archivos esenciales se encuentran en las capas de Servicio e Información, conforme al modelo Magerit.
 
@@ -145,18 +145,18 @@ Una vez identificados todos los activos, procedemos a realizar un grafo de depen
 
 Resultando en el siguiente esquema:
 
-![](Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.003.png)
+![](Imagenes/Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.003.png)
 
 Una vez declaradas las dependencias, realizamos una **valoración por activos**, es decir, sólo se valoran los archivos esenciales (información y servicios), y el resto de activos reciben una valoración en base de sus dependencias.
 
 ` `A la hora de la valoración, creímos que la **valoración cualitativa** era la más apropiada. Esta se basa en valorar su importancia en las dimensiones ACIDT.
 
-![](Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.004.png)
+![](Imagenes/Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.004.png)
 
-![](Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.005.png)
+![](Imagenes/Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.005.png)
 
 
-# <a name="_aisxs1b1lhvq"></a>    ![](Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.006.png)
+# <a name="_aisxs1b1lhvq"></a>    ![](Imagenes/Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.006.png)
 # <a name="_i4tmcvwy1edr"></a>3. Amenazas
 Una amenaza se define como una potencial causa de un evento dañino que podría tener un impacto negativo en un recurso vital para la organización. En términos generales, se refiere a cualquier elemento que tenga la capacidad de desencadenar un incidente perjudicial para un activo.
 
@@ -168,7 +168,7 @@ En un proyecto como este, es de vital importancia identificar amenazas que puede
 
 Los factores agravantes y atenuantes son consideraciones importantes en la valoración de riesgos y la gestión de crisis en una empresa broker, ya que pueden influir en la magnitud de los impactos adversos o ayudar a mitigarlos. Hemos considerado los siguientes:
 
-![](Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.007.jpeg)
+![](Imagenes/Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.007.jpeg)
 
 Como podemos apreciar, predominan los factores agravantes debido a la naturaleza de la entidad, de los cuales podemos destacar:
 
@@ -206,7 +206,7 @@ Para calcular el riesgo e impacto de un riesgo es necesario valorar las amenazas
 
 Aquí presentamos dos activos junto con sus evaluaciones de amenazas, con el propósito de realizar una comparación entre un servicio subcontratado y un servicio interno.
 
-![](Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.008.png)
+![](Imagenes/Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.008.png)
 
 Aunque ambos servicios se encarguen del mismo sector, es notable que al depender una empresa externa, la carencia de control directo y la distancia entre otros factores han influido negativamente en su valoración.
 
@@ -235,7 +235,7 @@ Por ejemplo, nuestra empresa, se enfrenta a considerables riesgos en el actual e
 
 Dado que este proyecto consiste en una auditoría, nuestro objetivo primordial es examinar la situación de la empresa, tanto como los riesgos e impactos a los que se exponen los sistemas de seguridad de la información.
 
-Definimos riesgo como la probabilidad de que una amenaza se materialice en un activo, generando un impacto. Por ende, el riesgo acumulado será reflejo de los impactos acumulados de los activos esenciales, el cual se puede apreciar en el siguiente gráfico:![](Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.009.png)
+Definimos riesgo como la probabilidad de que una amenaza se materialice en un activo, generando un impacto. Por ende, el riesgo acumulado será reflejo de los impactos acumulados de los activos esenciales, el cual se puede apreciar en el siguiente gráfico:![](Imagenes/Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.009.png)
 
 
 
