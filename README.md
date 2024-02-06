@@ -1,4 +1,4 @@
-#﻿Auditoría Informática I								PRÁCTICA GRUPO 8
+# ﻿Auditoría Informática I								PRÁCTICA GRUPO 8
 
 `      `![](Imagenes/Aspose.Words.a24c0c9e-5f12-4662-b1f6-e2d07aea9e8f.001.png)
 
